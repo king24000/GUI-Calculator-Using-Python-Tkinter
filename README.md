@@ -6,5 +6,5 @@ To check Python
     python --version
 # Step No 2: 
     pip -V
-# Steo No 3:
+# Step No 3:
     pip install tk
