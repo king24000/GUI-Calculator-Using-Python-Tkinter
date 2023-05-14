@@ -2,4 +2,6 @@
 
 Type the following commands in command propmt to check is python and pip is installed on your system.
 To check Python
-# python --version
+Step NO 1: python --version
+Step No 2:  pip -V
+Steo No 3: pip install tk
